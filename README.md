@@ -8,20 +8,24 @@ A workout tracker applicatio that lets the user to reach their fitness goals mor
 
 
 
-## Screenshots of the application:
+## Screenshots of the application
 
 
 
 <img src="./public/images/pic.png" width="1000" height="350">
 
 
+
+
+
 <img src="./public/images/pic1.png" width="1000" height="350">
+
 
 
 
 ## Submission 
 
 
-* The URL to the deployed application: 
+* The URL to the deployed application: betworkoutapp062021.herokuapp.com
 
-* The URL to the GitHub repository:
+* The URL to the GitHub repository: https://github.com/betielbetu/Workout-Tracker
