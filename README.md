@@ -12,13 +12,13 @@ A workout tracker applicatio that lets the user to reach their fitness goals mor
 
 
 
-<img src="./public/images/pic.png" width="1000" height="350">
-
-
-
-
-
 <img src="./public/images/pic1.png" width="1000" height="350">
+
+
+
+
+
+<img src="./public/images/pic.png" width="1000" height="350">
 
 
 
